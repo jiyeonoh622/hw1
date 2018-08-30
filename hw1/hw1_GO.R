@@ -24,3 +24,5 @@ x1["Jessin"]
 
 X<-matrix(x1, nrow=2)
 X
+
+
